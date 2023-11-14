@@ -25,6 +25,7 @@
 *.dbgconf
 JLinkLog.txt
 EventRecorderStub.scvd
+*.uvguix.*
 
 #-----------------VSCode-----------------
 
