@@ -1,32 +1,14 @@
 {
-  "description": "项目配置文件",
+  "miniprogramRoot": "dist/",
+  "projectname": "test",
+  "description": "",
   "setting": {
-    "bundle": false,
-    "userConfirmedBundleSwitch": false,
     "urlCheck": true,
-    "scopeDataCheck": false,
-    "coverView": true,
-    "es6": true,
-    "postcss": true,
+    "es6": false,
+    "enhance": false,
     "compileHotReLoad": false,
-    "lazyloadPlaceholderEnable": false,
-    "preloadBackgroundData": false,
-    "minified": true,
-    "autoAudits": false,
-    "newFeature": false,
-    "uglifyFileName": false,
-    "uploadWithSourceMap": true,
-    "useIsolateContext": true,
-    "nodeModules": false,
-    "enhance": true,
-    "useMultiFrameRuntime": true,
-    "showShadowRootInWxmlPanel": true,
-    "packNpmManually": false,
-    "enableEngineNative": false,
-    "packNpmRelationList": [],
-    "minifyWXSS": true,
-    "showES6CompileOption": false,
-    "minifyWXML": true,
+    "postcss": false,
+    "minified": false,
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
@@ -35,15 +17,16 @@
     "ignoreUploadUnusedFiles": true
   },
   "compileType": "miniprogram",
-  "appid": "wxb398dcb0faf84d2d",
+  "libVersion": "3.2.4",
+  "srcMiniprogramRoot": "dist/",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
   "condition": {},
   "editorSetting": {
     "tabIndent": "insertSpaces",
     "tabSize": 2
   },
-  "libVersion": "2.19.4",
-  "packOptions": {
-    "ignore": [],
-    "include": []
-  }
+  "appid": "wx1e12305b3f61dd62"
 }
